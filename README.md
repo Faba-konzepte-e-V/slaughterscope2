@@ -41,10 +41,9 @@ It is built with `flutter_map` and related packages to provide an interactive ma
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://gitlab.com/faba-konzepte/plattform-schlachtindustrie/flutterSlaughterScope.git
+   cd flutterSlaughterScope
    ```
-
 2. Install dependencies:
    ```bash
    flutter pub get
