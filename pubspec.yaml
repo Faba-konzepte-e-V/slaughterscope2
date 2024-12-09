@@ -1,0 +1,23 @@
+name: compassion_map
+description: A map-based app for animal rights activism.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.19.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_map: ^7.0.2
+  flutter_map_marker_popup: ^7.0.0
+  flutter_map_marker_cluster: ^1.2.0
+  provider: ^6.1.2
+  csv: ^6.0.0
+  latlong2: ^0.9.1
+
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/slaughterhouses.csv
