@@ -184,4 +184,4 @@ TBD
 
 ## **Contact**
 
-For questions or feedback, please contact at f.arcila@faba-konzepte.de.
+For questions or feedback, please contact via https://faba-konzepte.de/kontakt/
