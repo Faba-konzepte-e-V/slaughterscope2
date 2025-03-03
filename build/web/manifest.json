@@ -1,0 +1,35 @@
+{
+    "name": "slaughterscope",
+    "short_name": "slaughterscope",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "is an advocacy tool for animal rights activists, providing a detailed map of slaughterhouses across Germany. It enables users to explore facility information, including location, capacity, violations, and operational status, directly from a curated dataset. With filtering options and a focus on transparency, the app empowers individuals to raise awareness and drive change in the animal welfare movement.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
